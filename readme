@@ -1,0 +1,7 @@
+<!---A few helpful reasons to use anonymous functions and IIFE in your code----->
+
+1. to perform a task for event handlers, listeners, and callbacks — anonymous functions
+2. to maintain data privacy — IIFE
+3. to use as an argument when a function is called — anonymous functions & IIFE
+
+4. prevent conflicts between script files that could have the same variable names — anonymous functions & IIFE
